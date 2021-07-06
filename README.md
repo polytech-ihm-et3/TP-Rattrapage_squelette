@@ -73,7 +73,7 @@ Le but de ce TP est de créer un programme de conversion de températures.
 > }
 > ```
 
-3. Assurez-vous que les éléments graphiques sont correctement alignés et que leurs positions sont cohérentent avec la photo suivante lorsque vous changez la taille de la fenêtre.
+3. Assurez-vous que les éléments graphiques sont correctement alignés et que leurs positions sont cohérententes avec la photo suivante lorsque vous changez la taille de la fenêtre.
 
 <br><div align="center"><img src="images/tempconvV.jpg" width="150"></img></div><br>
 
